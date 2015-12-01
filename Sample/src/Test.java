@@ -1,5 +1,5 @@
 public class Test {
   public static void main(String args[]) {
-    System.out.println("New file added in GitHub...");
+    System.out.println("This file updated in Eclipse...");
   }
 }
